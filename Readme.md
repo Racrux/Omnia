@@ -1,5 +1,5 @@
 # Omnia: Death of Everyone
-![alt text](https://github.com/Racrux/Omnia/blob/master/omnia.jpg?raw=true)
+![alt text](https://github.com/Racrux/Omnia/blob/main/omnia.png?raw=true)
 
 ***
 **2.5D JRPG game inspired by AOT and Xenoblade**
