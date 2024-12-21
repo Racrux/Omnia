@@ -2,7 +2,7 @@
 ![alt text](https://github.com/Racrux/Omnia/blob/main/images/omnia.png?raw=true)
 
 ***
-**2.5D JRPG game inspired by AOT and Xenoblade**
+**10 year long rpg project**
 
 
 
